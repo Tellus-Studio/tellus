@@ -1,2 +1,2 @@
 # tellus
-Tellus主程序
+Tellus 主程序
